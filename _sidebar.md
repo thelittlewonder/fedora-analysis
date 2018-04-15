@@ -5,4 +5,3 @@
 * [Social](social.md)
 * [Calendar](calendar.md)
 * [Ask Fedora](askfedora.md)
-* [Bugs](bugs.md)
