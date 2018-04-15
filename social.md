@@ -8,4 +8,8 @@ The hyperlinks in the social media posts are unclickable. Sometimes it may happe
 ## Unresponsive Social Media Logo
 The Logo of respective social media site in the post component does not serve any purpose except the fact it tells that the post has been fetched from that social network. On the first glance, I thought that clicking that logo will lead me to the original post on the social network but it does not have a tap event. Also the contrast between the logo and background is not optimal, which makes it hard to look at.
 
+#### Solution
+
 <img src="./images/socialideal.png" width="auto" height="400px">
+
+Just make sure that the links looks like links and the call to action to visit the original post is clear. This view also allows to copy the text of a social media post. In the earlier design, clicking anywhere on the post would lead you to the post on the social network.
