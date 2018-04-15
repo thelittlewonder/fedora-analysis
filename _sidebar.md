@@ -1,5 +1,6 @@
 * [Fedora Community App](/)
 * [Home Screen](homescreen.md)
+* [Common Issues](commonissues.md)
 * [Magazine](magazine.md)
 * [Social](social.md)
 * [Calendar](calendar.md)
