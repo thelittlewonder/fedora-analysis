@@ -1,0 +1,7 @@
+* [Fedora Community App](/)
+* [Home Screen](homescreen.md)
+* [Magazine](magazine.md)
+* [Social](social.md)
+* [Calendar](calendar.md)
+* [Ask Fedora](askfedora.md)
+* [Bugs](bugs.md)
