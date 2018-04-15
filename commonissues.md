@@ -16,7 +16,7 @@ Use a sticky header that stays fixed when the users scroll through the content.
 <img src="./images/solutiontonav.png" height="400px" width="auto">
 
 ## Size of Share Icon
-The share icon has really small size which makes it difficult to click on.
+The share icon has a really small size which makes it difficult to click on.
 Small touch targets make users work harder because they require more accuracy to hit. Users need to reorient their finger, from finger pad to fingertip, to hit the target with clear visual feedback.
 
 <img src="./images/smallicon.png" height="400px" width="auto">
